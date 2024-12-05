@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ali & Demek Lawyers",
+    "address": "95 Queen Street South, Mississauga, Ontario L5M 1K7, Canada",
+    "unitNumber": "B",
+    "postalCode": "L5M 1K7",
+    "latitude": "43.584593",
+    "longitude": "-79.71711",
+    "telephone": "905-826-3421",
+    "extension": "1008",
+    "email": "info@streetsvillelaw.com",
+    "tags": [
+      "Wills & Estates",
+      "Intellectual Property Law"
+    ]
+  },
+  {
+    "name": "Greg Guzik",
+    "address": "82 Queen Street South, Mississauga, Ontario L5M 1K6, Canada",
+    "unitNumber": "",
+    "postalCode": "L5M 1K6",
+    "latitude": "43.584604",
+    "longitude": "-79.718157",
+    "telephone": "905-286-4570",
+    "extension": "",
+    "email": "info@guzik.com",
+    "tags": [
+      "Employment Law",
+      "Personal Injury Law"
+    ]
+  },
+  {
+    "name": "Gagan Law",
+    "address": "8 Water Street, Mississauga, Ontario L5M 1T9, Canada",
+    "unitNumber": "",
+    "postalCode": "L5M 1T9",
+    "latitude": "43.582846",
+    "longitude": "-79.714444",
+    "telephone": "905-997-1666",
+    "extension": "",
+    "email": "info@gagan.com",
+    "tags": [
+      "Family Law",
+      "Immigration Law"
+    ]
+  }
+]
